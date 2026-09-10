@@ -21,4 +21,4 @@ Analisis Penjualan Toko Elektronik menggunakan Microsoft Excel bertujuan untuk m
 
 ---
 # Dashboard Overview
-![image alt]()
+![image alt](https://github.com/aldyycode/Study_Case_Toko_Elektronik_Cahya_Nusantara/blob/80d495e76c76583046d3876740be795efd563820/Screenshot%202026-09-10%20151718.png)
